@@ -1,4 +1,4 @@
-Mihlali Mldangazi- Information and Communication Technolofy Portfolio
+Mihlali Mldangazi- Information and Communication Technology Portfolio
 
 ## About Me
 
