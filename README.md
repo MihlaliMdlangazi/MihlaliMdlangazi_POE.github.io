@@ -89,7 +89,7 @@ The project improved my frontend development, teamwork, and collaboration skills
 
 I recently participated in the AI Acceleration Skills Development Programme offered by CAPACITI.
 
-## Reflection on AI Acceleration Skills Development Programme (STAR Method)
+## Reflection on AI Acceleration Skills Development Programme 
 
 ### Situation
 I wanted to expand my knowledge of emerging technologies and improve my industry readiness beyond my academic coursework.
