@@ -113,6 +113,36 @@ These certificates show my commitment to learning beyond class. .
 
 ---
 
+## AI Projects (Lovable AI – CAPACITI Programme)
+
+During the AI Acceleration Skills Development Programme, I built and deployed AI-powered applications using Lovable AI. These projects helped me understand rapid prototyping, AI-assisted development, and full-stack application deployment.
+
+---
+
+### 1. AI Portfolio Project (Lovable AI)
+
+**Description:**  
+A personal portfolio website generated and customized using Lovable AI to showcase my skills, projects, and experience.
+
+**Live Demo:**  
+[View Project](https://mihlali-portfolio-sparkle.lovable.app)
+
+**Reflection:**
+This project helped me understand how AI tools can accelerate UI/UX development and generate production-ready web applications quickly. I also learned how to refine AI-generated outputs to better match user requirements and professional standards.
+
+---
+
+### 2. AI Assistant Application (Lovable AI)
+
+**Description:**  
+An AI-powered assistant application designed to simulate conversational interaction and demonstrate AI-driven user support features.
+
+**Live Demo:**  
+[View Project](https://mihlali-ai-assistant-app.lovable.app)
+
+**Reflection:**
+This project improved my understanding of AI interaction design and how conversational systems are structured. I learned how AI applications can be used to solve real-world user support problems and enhance user experience.
+
 ## Connect With Me
 
 - **GitHub:** [github.com/MihlaliMdlangazi](https://github.com/MihlaliMdlangazi)
