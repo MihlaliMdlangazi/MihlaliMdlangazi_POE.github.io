@@ -1,98 +1,125 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mihlali Mdlangazi | Portfolio</title>
-
-<link rel="stylesheet" href="style.css">
-
-<!-- Google Font -->
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mihlali Mdlangazi | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
 </head>
-
 <body>
 
-<header class="hero">
-    <h1 class="fade-in">Mihlali Mdlangazi</h1>
-    <p class="fade-in">ICT Applications Development | Software Developer</p>
-</header>
+  <!-- HERO -->
+  <header class="hero">
+    <h1>Mihlali Mdlangazi</h1>
+    <p class="subtitle">ICT Applications Development &nbsp;·&nbsp; Software Developer</p>
+    <div class="hero-dots">
+      <span></span><span></span><span></span>
+    </div>
+  </header>
 
-<div class="container">
+  <svg class="wave-divider" viewBox="0 0 1440 48" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0,32 C360,0 1080,64 1440,24 L1440,48 L0,48 Z" fill="#faf8fd"/>
+  </svg>
 
-    <section class="card fade-up">
-        <h2>About Me</h2>
-        <p>
-            Final-year ICT Applications Development student at CPUT.
-            Skilled in Java, Python, Spring Boot, REST APIs, and database systems.
-            Passionate about building scalable software solutions.
-        </p>
+  <!-- BENTO GRID -->
+  <div class="grid-wrapper">
+
+    <!-- ABOUT ME -->
+    <section class="card card-about fade-up">
+      <span class="section-label">About Me</span>
+      <h2>Hello, I'm Mihlali ✦</h2>
+      <p>
+        Final-year ICT Applications Development student at CPUT.
+        Skilled in Java, Python, Spring Boot, REST APIs, and database systems.
+        Passionate about building scalable, thoughtful software solutions.
+      </p>
     </section>
 
-    <section class="card fade-up">
-        <h2>Technical Skills</h2>
-        <div class="tags">
-            <span>Java</span>
-            <span>Python</span>
-            <span>Spring Boot</span>
-            <span>HTML</span>
-            <span>CSS</span>
-            <span>JavaScript</span>
-            <span>REST APIs</span>
-            <span>MySQL</span>
-            <span>Git</span>
+    <!-- TECHNICAL SKILLS -->
+    <section class="card card-skills fade-up">
+      <span class="section-label">Technical Skills</span>
+      <h2>What I Work With</h2>
+      <div class="tags">
+        <span>Java</span>
+        <span>Python</span>
+        <span>Spring Boot</span>
+        <span>HTML</span>
+        <span>CSS</span>
+        <span>JavaScript</span>
+        <span>REST APIs</span>
+        <span>MySQL</span>
+        <span>Git</span>
+      </div>
+    </section>
+
+    <!-- PROJECTS -->
+    <section class="card card-projects fade-up">
+      <span class="section-label">Projects</span>
+      <h2>Things I've Built</h2>
+      <div class="project-grid">
+        <div class="proj-box">
+          <h3>Anime Online Store</h3>
+          <p class="stack">Java · Spring Boot · MySQL · JUnit</p>
+          <p>REST API backend with testing and full database integration.</p>
         </div>
-    </section>
-
-    <section class="card fade-up">
-        <h2>Projects</h2>
-
-        <div class="grid">
-
-            <div class="box">
-                <h3>Anime Online Store</h3>
-                <p>Java • Spring Boot • MySQL • JUnit</p>
-                <p>REST API backend with testing and database integration.</p>
-            </div>
-
-            <div class="box">
-                <h3>UniTrade App</h3>
-                <p>HTML • CSS • JS • APIs</p>
-                <p>Responsive UI with API integration.</p>
-            </div>
-
-            <div class="box">
-                <h3>AI Portfolio</h3>
-                <a href="https://mihlali-portfolio-sparkle.lovable.app">Live Demo</a>
-            </div>
-
-            <div class="box">
-                <h3>AI Assistant</h3>
-                <a href="https://mihlali-ai-assistant-app.lovable.app">Live Demo</a>
-            </div>
-
+        <div class="proj-box">
+          <h3>UniTrade App</h3>
+          <p class="stack">HTML · CSS · JS · APIs</p>
+          <p>Responsive UI with API integration built for students.</p>
         </div>
+        <div class="proj-box">
+          <h3>AI Portfolio</h3>
+          <p class="stack">Lovable · AI</p>
+          <a href="https://mihlali-portfolio-sparkle.lovable.app" target="_blank">View Live Demo →</a>
+        </div>
+        <div class="proj-box">
+          <h3>AI Assistant</h3>
+          <p class="stack">Lovable · AI</p>
+          <a href="https://mihlali-ai-assistant-app.lovable.app" target="_blank">View Live Demo →</a>
+        </div>
+      </div>
     </section>
 
-    <section class="card fade-up">
-        <h2>Learning Experience</h2>
-        <p>
-            CAPACITI AI Acceleration Programme improved my AI understanding,
-            problem-solving skills, and real-world development experience.
-        </p>
+    <!-- LEARNING EXPERIENCE -->
+    <section class="card card-learning fade-up">
+      <span class="section-label">Learning Experience</span>
+      <h2>Growing as a Developer</h2>
+      <p>
+        CAPACITI AI Acceleration Programme improved my AI understanding,
+        problem-solving skills, and real-world development experience.
+      </p>
     </section>
 
-    <section class="card fade-up">
-        <h2>Contact</h2>
-        <p>Email: 222035749@mycput.ac.za</p>
-        <p>GitHub: github.com/MihlaliMdlangazi</p>
+    <!-- CONTACT -->
+    <section class="card card-contact fade-up">
+      <span class="section-label">Contact</span>
+      <h2>Get In Touch</h2>
+      <div class="contact-row">
+        <div class="contact-item">
+          <div class="contact-icon">✉</div>
+          <span>222035749@mycput.ac.za</span>
+        </div>
+        <div class="contact-item">
+          <div class="contact-icon">⌥</div>
+          <a href="https://github.com/MihlaliMdlangazi" target="_blank">github.com/MihlaliMdlangazi</a>
+        </div>
+      </div>
     </section>
 
-</div>
+  </div>
 
-<footer>
+  <footer>
     <p>© 2026 Mihlali Mdlangazi</p>
-</footer>
+  </footer>
+
+  <script>
+    const cards = document.querySelectorAll('.fade-up');
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
+    }, { threshold: 0.1 });
+    cards.forEach(c => observer.observe(c));
+  </script>
 
 </body>
 </html>
