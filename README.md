@@ -7,7 +7,7 @@ I am a final year IT student majoring in Applications Development at CPUT. I hav
 ## Portfolio of Evidence
 
 ### 1. Curriculum Vitae
- **[Download my CV here](./Mihlali_Mdlangazi_SoftwareDeveloper_CV.pdf)**
+ **[Download my CV here](MihlaliMdlangaziCV_SoftwareEngineer.pdf)**
 
 **Reflection:**
 
@@ -105,7 +105,7 @@ The programme improved my understanding of Artificial Intelligence and strengthe
 
 ## 5. Certificates
 
-[View My Professional Development Certificates](Mihlali_Mdlangazi_Certificates)
+[View My Professional Development Certificates](Mihlali_Mdlangazi_Certificates.pdf)
 
 **Reflection:**
 
