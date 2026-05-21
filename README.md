@@ -1,4 +1,4 @@
-Mihlali Mdlangazi- Information and Communication Technology in Applications- Portfolio
+Mihlali Mdlangazi- Information and Communication Technology in Applications Development
 
 ## About Me
 
@@ -87,7 +87,7 @@ The project improved my frontend development, teamwork, and collaboration skills
 
 ### AI Acceleration Skills Development Programme – CAPACITI
 
-I recently participated in the AI Acceleration Skills Development Programme offered by CAPACITI.
+I recently participated in the 1-week AI Acceleration Skills Development Programme offered by CAPACITI.
 
 ## Reflection on AI Acceleration Skills Development Programme 
 
@@ -98,7 +98,7 @@ I wanted to expand my knowledge of emerging technologies and improve my industry
 My task was to actively participate in the AI Acceleration programme and develop a better understanding of Artificial Intelligence concepts and workplace skills.
 
 ### Action
-I attended programme sessions, participated in practical activities, and explored how AI technologies are used in modern industries.
+I attended programme sessions, participated in practical activities Formative and Summative exams, and explored how AI technologies are used in modern industries.
 
 ### Result
 The programme improved my understanding of Artificial Intelligence and strengthened my confidence and readiness for opportunities in the tech industry.
